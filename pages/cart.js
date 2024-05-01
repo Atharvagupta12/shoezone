@@ -104,7 +104,7 @@ const cart = () => {
             {/*Cart Content End */}
           </>
         )}
-        ;{/* this is empty screen */}
+        {/* this is empty screen */}
         {cartItems.length < 1 && (
           <div
             className="flex-[2] flex flex-col items-center
